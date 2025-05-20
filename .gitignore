@@ -5,6 +5,8 @@ __pycache__/
 env5
 tox.ini
 test_environment.py
+mlruns
+
 # C extensions
 *.so
 
